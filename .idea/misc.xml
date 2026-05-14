@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/OpenAI/OpenAI/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatModel001/ChatModel001/pom.xml" />
       </list>
     </option>
   </component>

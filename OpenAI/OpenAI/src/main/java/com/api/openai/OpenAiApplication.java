@@ -3,6 +3,7 @@ package com.api.openai;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//Using constructor injection
 @SpringBootApplication
 public class OpenAiApplication {
 
