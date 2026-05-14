@@ -38,3 +38,6 @@ public class ChatService {
                 .getText();
     }
 }
+
+/*TIP: The ChatClient.Builder is a prototype bean,so each injection gets a new  instance.
+ You can safely customize it without affecting other parts of your application.*/
