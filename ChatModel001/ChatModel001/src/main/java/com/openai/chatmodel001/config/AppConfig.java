@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class AppConfig {
 
-    ChatClient chatClien (ChatClient.Builder builder){
+    ChatClient chatClient (ChatClient.Builder builder){
         return builder
                 .defaultSystem("You are a coding assistant")
                 .build();
